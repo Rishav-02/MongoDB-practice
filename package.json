@@ -1,0 +1,17 @@
+{
+  "name": "all_api_with_mongodb",
+  "version": "1.0.0",
+  "description": "All_API_with_mongoDB",
+  "main": "All_API_with_mongoDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishav Raj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19"
+  }
+}
